@@ -1,0 +1,1 @@
+C:\Users\dorot\OneDrive\ -\ Politecnico\ di\ Torino\Desktop\SecondoSemestre\Programmazione\ di\ Sistema\RUST\esericitazione7\Es2\target\debug\Es2.exe: C:\Users\dorot\OneDrive\ -\ Politecnico\ di\ Torino\Desktop\SecondoSemestre\Programmazione\ di\ Sistema\RUST\esericitazione7\Es2\src\main.rs

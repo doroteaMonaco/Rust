@@ -1,0 +1,1 @@
+C:\Users\dorot\Desktop\Magistrale\PrimoAnno\SecondoSemestre\Programmazione\ di\ Sistema\RUST\esercitazione5\es1\target\debug\es1.exe: C:\Users\dorot\Desktop\Magistrale\PrimoAnno\SecondoSemestre\Programmazione\ di\ Sistema\RUST\esercitazione5\es1\src\main.rs
